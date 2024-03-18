@@ -1,0 +1,168 @@
+
+body, html {
+   
+    display: flex;
+    justify-content: center;
+    background-color: hsl(30, 54%, 90%);
+}
+
+.content {
+    box-sizing: border-box;
+    border-radius: 1.5pc; 
+}
+.content {
+    padding: 3%;
+    margin: 10% 21% 10% 21%;
+    background: white;
+    color: hsl(30, 10%, 34%);
+    line-height: 1.5; 
+     
+}
+.content {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.content h1, .content h2 {
+    margin-top: 0.5em;
+}
+
+.content table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+img {
+    border-radius: 0.8pc; 
+}
+
+.image-container {
+    text-align: center; 
+    box-sizing: border-box;
+    border-radius: 2pc; 
+
+}
+
+.image-container img {
+    width: 100%; 
+    max-width: 100%;
+    height: auto; 
+}
+
+ul, ol {
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%; 
+    padding-left: 0;
+}
+
+ol{
+    font-family: "YourFont", sans-serif
+}
+
+.heading {
+    font-family: "Young Serif", serif;
+    color: rgb(55, 55, 55);
+    font-weight: 400;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+
+.preparation{
+    background-color:hsl(330, 100%, 98%);
+    padding: 3%;
+    padding-left: 5%;
+    padding-top: 3%;
+    text-align: justify;
+}
+
+h4{
+    color: hsl(332, 51%, 32%);
+    font-size: medium;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h2{
+    color:hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    margin-top: 0%;
+    
+}
+
+#c2{
+    color:hsl(14, 45%, 36%);
+    font-display: bold;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse; /* Collapse table borders */
+  }
+  
+  tr {
+    border-bottom: 1.1px solid rgba(0, 0, 0, 0.104); /* Add bottom border to each table row */
+    
+}
+  
+  td {
+    padding: 5px; /* Add padding to table cells for better spacing */
+  }
+
+  li {
+    list-style-position: inside;   
+    
+}
+
+ul li::marker {
+    color: hsl(14, 45%, 36%);
+    
+}
+
+ol li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+.attribution {
+    font-size: 11px;
+    margin-top: 20px;
+}
+
+@media (max-width: 375px) {
+    body, html {
+        margin: 0; /* Remove all margins */
+        justify-content: center;
+        background-color: rgb(251, 233, 211);
+    }
+    .content {
+        box-sizing: border-box;
+        border-radius: 0; 
+        margin: 0; 
+        padding: 0; 
+        display: flex; 
+        flex-direction: column; 
+        align-items: center;
+    }
+    
+    img {
+        border-radius: 0pc; 
+    }
+    .image-container img {
+        width: 100vw; /* Use 100% of the viewport width */
+        height: auto; /* Maintain aspect ratio */
+    }
+    
+    .written{
+        padding: 8%;
+    }
+    
+
+}
+
+  
+  
