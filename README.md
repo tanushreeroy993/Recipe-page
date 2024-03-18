@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://main--omlet993.netlify.app/)https://main--omlet993.netlify.app/)
+- Live Site URL: (https://main--omlet993.netlify.app/)
 
 
 ### Built with
