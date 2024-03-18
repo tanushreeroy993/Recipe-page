@@ -30,8 +30,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Built with
 
--HTML
--CSS
+- HTML
+- CSS
 
 
 
