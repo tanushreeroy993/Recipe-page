@@ -8,18 +8,13 @@ body, html {
 
 .content {
     box-sizing: border-box;
-    border-radius: 1.5pc; 
-}
-.content {
+    border-radius: 1.5pc;
     padding: 3%;
     margin: 10% 21% 10% 21%;
     background: white;
     color: hsl(30, 10%, 34%);
-    line-height: 1.5; 
-     
-}
-.content {
-    font-family: "Outfit", sans-serif;
+    line-height: 1.5;
+   font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
